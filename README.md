@@ -1,7 +1,7 @@
 # Tableau_JS_API_DownloadDataFromFirstChart
 The code was adapted from example from Tableau 
 
-## how does it work? 
+## How does it work? 
 1) User filer on the dashboard
 2) When user click download csv, the data from the first chart will be exported as CSV format
 
